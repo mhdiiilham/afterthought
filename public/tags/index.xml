@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Afterthought</title>
+    <link>https://blog.muhammadilham.xyz/tags/</link>
+    <description>Recent content in Tags on Afterthought</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 25 Oct 2022 09:53:26 +0700</lastBuildDate><atom:link href="https://blog.muhammadilham.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>blog</title>
+      <link>https://blog.muhammadilham.xyz/tags/blog/</link>
+      <pubDate>Tue, 25 Oct 2022 09:53:26 +0700</pubDate>
+      
+      <guid>https://blog.muhammadilham.xyz/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

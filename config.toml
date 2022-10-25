@@ -1,45 +1,44 @@
-baseurl = "https://blog.muhammadilham.xyz"
-title = "Afterthought"
-author = "Muhammad Ilham"
-canonifyurls = true
-languagecode = "en"
-theme = "hugo-tanka"
+baseURL = "/"
+languageCode = "en-us"
+theme = "hugo-winston-theme"
+themesDir = "themes"
+title = "Hugo Winston Theme"
+paginate = 3
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+pygmentsUseClasses = true
 
-enableEmoji = true
-hasCJKLanguage = false
-
-pygmentsstyle = "vs"
-pygmentscodefences = true
-
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.55.0"
 
 [params]
-  sitename = "Afterthought"
-  faviconfile = "images/favicon.png"
-  highlightjs = true
-  highlightjslanguages = ["r", "python", "stan"]
-  uselatex = true
-  progressively = false
-# commentsrepo = "user/repo"
+  google_analytics_id = ""
+  twitter_handle = "@zerostaticio"
+  showAuthorOnHomepage = true
+  showAuthorOnPosts = false
+  showPostsOnHomepage = false
+  addDot = true
+  addFrame = true
+  highlightColor = '#7b16ff'
+  baseColor = "#ffffff"
+  baseOffsetColor = "#eaeaea"
+  headingColor = "#1c1b1d"
+  textColor = "#4e5157"
+  dotColor = "#7b16ff"
 
+# markdown config settings https://gohugo.io/getting-started/configuration-markup/#goldmark
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
+      hardWraps = false
       unsafe = true
+      xhtml = false
 
-[[menu.primary]]
-    name = "Home"
-    url = "/"
+[menu]
+  [[menu.main]]
+    identifier = 'home'
+    name = 'Home'
+    url = '/'
     weight = 1
-[[menu.primary]]
-    name = "About"
-    url = "/about/"
-    weight = 2
-[[menu.primary]]
-    name = "GitHub"
-    url = "https://github.com/mhdiiilham"
-    weight = 3
-[[menu.primary]]
-    name = "Twitter"
-    url = "https://twitter.com/w8rloO"
-    weight = 4

@@ -1,3 +1,9 @@
 [submodule "themes/hugo-tanka"]
 	path = themes/hugo-tanka
 	url = https://github.com/nanxstats/hugo-tanka.git
+[submodule "themes/hugo-theme-texify"]
+	path = themes/hugo-theme-texify
+	url = https://github.com/queensferryme/hugo-theme-texify.git
+[submodule "themes/hugo-winston-theme"]
+	path = themes/hugo-winston-theme
+	url = https://github.com/zerostaticthemes/hugo-winston-theme.git
