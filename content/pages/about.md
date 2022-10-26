@@ -1,6 +1,6 @@
 ---
 title: 'About'
-image: images/writer.jpeg
+image: images/me.jpg
 url: "about"
 menu:
   main:
@@ -8,23 +8,10 @@ menu:
     weight: 3
 ---
 
-## Contra vagos
+## TL;DR
 
-Lorem _markdownum notam si_ lintea meque certa [en meumque
-illis](#cohibentem-iuvenaliter), diu fatigant, nec praedae concustodita arcet.
-[Paviunt castris](#nemorisque-urimur-violentus) cur errat ventis causa! Silvas
-sine satis vocat praedam moverat, precor, non sola bovis neque mihi. Primum
-utilis nympham, et certus amplexas Deiphobum palmis credas ambo, nec.
-
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
-
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+I am A software engineer specializing in the backend with a demonstrated history of working in the financial technology industry.
+Love to code and do some experiments with Go.
 
 ## Ducem oculos pallor tale quoque
 
