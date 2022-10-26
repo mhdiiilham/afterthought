@@ -40,5 +40,5 @@ pygmentsUseClasses = true
   [[menu.main]]
     identifier = 'home'
     name = 'Home'
-    url = '/'
+    url = 'https://muhammadilham.xyz'
     weight = 1
