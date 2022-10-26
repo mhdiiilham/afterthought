@@ -1,44 +1,70 @@
-baseURL = "/"
+baseURL = "https://blog.muhammadilham.xyz"
 languageCode = "en-us"
-theme = "hugo-winston-theme"
-themesDir = "themes"
 title = "Afterthought"
-paginate = 3
-pygmentsCodeFences = true
-pygmentsCodefencesGuessSyntax = true
-pygmentsUseClasses = true
+theme = "anubis"
+paginate = 5
 
-[module]
-  [module.hugoVersion]
-    extended = true
-    min = "0.55.0"
+disqusShortname = ""
+googleAnalytics = ""
+
+[author]
+name = "Muhammad Ilham"
 
 [params]
-  google_analytics_id = ""
-  twitter_handle = "@w8rloO"
-  showAuthorOnHomepage = true
-  showAuthorOnPosts = true
-  showPostsOnHomepage = false
-  addDot = true
-  addFrame = true
-  highlightColor = '#7b16ff'
-  baseColor = "#ffffff"
-  baseOffsetColor = "#eaeaea"
-  headingColor = "#1c1b1d"
-  textColor = "#4e5157"
-  dotColor = "#7b16ff"
+author = "Muhammad Ilham"
+description = "My personal blog. Mostly about tech."
+dateFormat = "2006-01-02"
+paginationSinglePost = true
+style = "auto"
+readMore = true
+readNextPosts = 2
+copyCodeButton = true
+rssAsSocialIcon = false
 
-# markdown config settings https://gohugo.io/getting-started/configuration-markup/#goldmark
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      hardWraps = false
-      unsafe = true
-      xhtml = false
+# Graphcomment support
+graphcommentId = ""
+
+# utteranc.es support
+utterancesRepo = ""  # mandatory
+utterancesTheme = "" # optional
+utterancesIssue = "" # optional
+utterancesLabel = "" # optional
+
+[[params.social]]
+id = "github"
+url = "https://github.com/mhdiiilham/afterthought"
+
+[[params.social]]
+id = "linkedin"
+url = "http://linkedin.com/in/muhammad-ilham-491a99194"
+
+[[params.social]]
+id = "twitter"
+url = "http://twitter.com/w8roO"
 
 [menu]
-  [[menu.main]]
-    identifier = 'home'
-    name = 'Home'
-    url = 'https://muhammadilham.xyz'
-    weight = 1
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 1
+
+[[menu.main]]
+identifier = "tags"
+name = "Tags"
+url = "/tags/"
+weight = 2
+
+[[menu.main]]
+name = "Archive"
+identifier = "archive"
+url = "/posts/"
+weight = 3
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+
+[markup.goldmark.renderer]
+unsafe = true
