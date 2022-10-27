@@ -45,22 +45,28 @@ url = "http://twitter.com/w8roO"
 [menu]
 
 [[menu.main]]
+identifier = "home"
+name = "Home"
+url = "https://muhammadilham.xyz"
+weight = 1
+
+[[menu.main]]
 identifier = "about"
 name = "About"
 url = "/about/"
-weight = 1
+weight = 2
 
 [[menu.main]]
 identifier = "tags"
 name = "Tags"
 url = "/tags/"
-weight = 2
+weight = 3
 
 [[menu.main]]
 name = "Archive"
 identifier = "archive"
 url = "/posts/"
-weight = 3
+weight = 4
 
 [taxonomies]
 category = "categories"
