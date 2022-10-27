@@ -32,7 +32,7 @@ utterancesLabel = "" # optional
 
 [[params.social]]
 id = "github"
-url = "https://github.com/mhdiiilham/afterthought"
+url = "https://github.com/mhdiiilham"
 
 [[params.social]]
 id = "linkedin"
