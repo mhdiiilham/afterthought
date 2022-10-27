@@ -1,11 +1,11 @@
 ---
 title: "About"
-description: "Hugo, the world’s fastest framework for building websites"
+# description: "Hugo, the world’s fastest framework for building websites"
 date: "2000-12-15"
 # aliases: ["about","about-hugo","contact"]
 author: "Hugo Authors"
 image: images/me.jpg
-tags: ["about", "contact", "personal"]
+tags: []
 ---
 
 ## TL;DR
