@@ -4,7 +4,7 @@ title = "Afterthought"
 theme = "anubis"
 paginate = 5
 
-disqusShortname = ""
+disqusShortname = "disqus_x8LqS4kXHa"
 googleAnalytics = ""
 
 [author]
@@ -13,7 +13,7 @@ name = "Muhammad Ilham"
 [params]
 author = "Muhammad Ilham"
 description = "My personal blog. Mostly about tech."
-dateFormat = "2006-01-02"
+dateFormat = "Mon, 02 Jan 2006"
 paginationSinglePost = true
 style = "auto"
 readMore = true
@@ -45,6 +45,12 @@ url = "http://twitter.com/w8roO"
 [menu]
 
 [[menu.main]]
+identifier = "Blog"
+name = "Blog"
+url = "/"
+weight = 1
+
+[[menu.main]]
 identifier = "home"
 name = "Home"
 url = "https://muhammadilham.xyz"
@@ -62,11 +68,6 @@ name = "Tags"
 url = "/tags/"
 weight = 3
 
-[[menu.main]]
-name = "Archive"
-identifier = "archive"
-url = "/posts/"
-weight = 4
 
 [taxonomies]
 category = "categories"
