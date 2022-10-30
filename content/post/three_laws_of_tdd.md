@@ -138,4 +138,3 @@ I'm not an expert in Test-Driven Development, but I've been practicing TDD for w
 So whether you are a junior, mid, senior, or any level of software engineer I'd recommend you to practice TDD while at work or even if it's just your pet project.
 
 Ok, thankyou!
-a

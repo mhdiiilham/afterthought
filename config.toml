@@ -5,7 +5,7 @@ theme = "anubis"
 paginate = 5
 
 disqusShortname = "blog-bf7cs53gjc"
-googleAnalytics = ""
+googleAnalytics = "G-B5NWDSK6R1"
 
 [author]
 name = "Muhammad Ilham"
