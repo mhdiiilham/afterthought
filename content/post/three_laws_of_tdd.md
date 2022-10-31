@@ -106,7 +106,8 @@ If you asking, "wait, why we don't put the implementation right away?". Well, yo
 After this step, we shall go back to the second law of tdd and add a unit test to demonstrate another failure, in this case the failure is when a text is palindrome.
 
 The `palindrome_test.go`:
-```
+
+```go
 func TestIsPalindrome(t *testing.T) {
 	testCases := []struct {
 		name        string
