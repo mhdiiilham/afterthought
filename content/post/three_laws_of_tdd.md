@@ -95,7 +95,7 @@ We just created a unit test that fails (compilation failures) now we need to mak
 
 By adding this code to our `palindrome.go` the compilation failures should be passed now.
 
-```
+```go
 func IsPalindrome(txt string) bool {
 	return false
 }
