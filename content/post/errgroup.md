@@ -1,5 +1,5 @@
 ---
-title: "The errgroup package: Your secret weapon for managing concurrent goroutines in Go"
+title: "The errgroup Package: Your secret weapon for managing concurrent goroutines in Go"
 subtitle: ""
 date: 2022-12-16T11:30:00+07:00
 draft: false
@@ -8,8 +8,19 @@ authorLink: "https://twitter.com/w8rloO"
 authorEmail: "hi@muhammadilham.xyz"
 description: "The errgroup package is a Go library that makes it easy to run a bunch of tasks concurrently and then cry in despair if any of them fail. So don't let concurrent tasks ruin your day anymore, give the errgroup package a try and enjoy the peace of mind that comes with knowing that your tasks are being managed and your errors are being caught."
 keywords:
+- Go
+- Golamg
+- Concurrency
+- Error Propagation
 tags:
+- Go
+- Golamg
+- Concurrency
+- Error Propagation
 categories:
+- Programming
+- Go Programming Language
+- Concurrency
 summary: "The errgroup package is a Go library that makes it easy to run a bunch of tasks concurrently and then cry in despair if any of them fail. So don't let concurrent tasks ruin your day anymore, give the errgroup package a try and enjoy the peace of mind that comes with knowing that your tasks are being managed and your errors are being caught."
 image: https://images.unsplash.com/photo-1525785967371-87ba44b3e6cf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1473&q=80
 ---
