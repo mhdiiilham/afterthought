@@ -22,6 +22,7 @@ tags:
 - clean code
 - Go
 - Golang
+- Testing
 categories:
 - programming
 - tech
