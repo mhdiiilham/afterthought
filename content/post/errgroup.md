@@ -9,12 +9,12 @@ authorEmail: "hi@muhammadilham.xyz"
 description: "The errgroup package is a Go library that makes it easy to run a bunch of tasks concurrently and then cry in despair if any of them fail. So don't let concurrent tasks ruin your day anymore, give the errgroup package a try and enjoy the peace of mind that comes with knowing that your tasks are being managed and your errors are being caught."
 keywords:
 - Go
-- Golamg
+- Golang
 - Concurrency
 - Error Propagation
 tags:
 - Go
-- Golamg
+- Golang
 - Concurrency
 - Error Propagation
 categories:
