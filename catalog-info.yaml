@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: afterthought
+  annotations:
+    github.com/project-slug: mhdiiilham/afterthought
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
