@@ -24,10 +24,6 @@ image: https://i.ibb.co/n7qytPT/IMG-1578.jpg
 
 # The Fuku Riu - Japanese 'Good Luck' Dragon.
 
-<p align="center">
-  <img src="https://i.ibb.co/n7qytPT/IMG-1578.jpg"/></br>
-</p>
-
 Me, still excited with my latest tattoo, hence, let me introduce everyone to it!
 
 So, earlier this year I had an idea to get a dragon tattoo, this such a cliché but, hear me out... The year of 2024, is the dragon tattoo in Chinese culture, and me, I was born on the year 2000. Yup, I am a gold dragon, well maybe not chinese, but still a dragon, lol.
