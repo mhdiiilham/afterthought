@@ -13,5 +13,3 @@ tags: []
 I am A software engineer specializing in the backend with a demonstrated history of working in the financial technology industry.
 Love to code and do some experiments with Go.
 
-
-
