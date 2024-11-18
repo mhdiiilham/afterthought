@@ -42,6 +42,10 @@ url = "http://linkedin.com/in/muhammad-ilham-491a99194"
 id = "twitter"
 url = "http://twitter.com/w8rloO"
 
+[[params.social]]
+id = "instagram"
+url = "http://instagram.com/piigyy"
+
 [menu]
 
 [[menu.main]]
