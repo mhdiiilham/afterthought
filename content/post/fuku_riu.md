@@ -75,7 +75,7 @@ Asahikawa is the first city in Japan that I explored (not much but enough to mak
 The snow just makes it beautiful.
 
 I visited the Asahiyama Zoo which is about 30 minutes bus ride from the train station.
-But since me and my girlfriend couldn't speak Japanese and we were in a hurry for the Penguin Walk Show we decided to take a taxi that cost us around 4,000 JPY.
+But since I couldn't speak Japanese and were in a hurry for the Penguin Walk Show I decided to take a taxi that cost me around 4,000 JPY.
 This is the very first time I saw penguins in person. They are just very cute!
 
 Okay, let's back to the mountain.
